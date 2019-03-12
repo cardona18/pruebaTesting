@@ -4,4 +4,4 @@ if numero < 0:
     print("¡Le he dicho que escriba un número positivo!")
     numero= 2
 else:
-    print(f"Ha escrito el número" )
+    print("Ha escrito el número" )
