@@ -1,5 +1,7 @@
 print("Hello world!")
-numero = int(input("Escriba un número positivo: "))
+numero = int(-4)
 if numero < 0:
     print("¡Le he dicho que escriba un número positivo!")
-print(f"Ha escrito el número {numero}")
+    numero= 2
+else:
+    print(f"Ha escrito el número" )
